@@ -29,6 +29,11 @@
         "log.h": "c",
         "algorithm": "c",
         "user_time.h": "c",
-        "queue": "c"
+        "queue": "c",
+        "gps_protocol.h": "c",
+        "fstream": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "stdint.h": "c"
     }
 }

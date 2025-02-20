@@ -21,7 +21,8 @@
                 "e:\\08.Project\\00.Fans\\00.Firmware\\BSP\\RINGBUFFER",
                 "e:\\08.Project\\00.Fans\\00.Firmware\\BSP\\MOTOR",
                 "e:\\08.Project\\00.Fans\\00.Firmware\\Core\\delay",
-                "e:\\08.Project\\00.Fans\\00.Firmware\\USER"
+                "e:\\08.Project\\00.Fans\\00.Firmware\\USER",
+                "e:\\08.Project\\00.Fans\\00.Firmware\\USER\\Protocol"
             ],
             "defines": [
                 "USE_HAL_DRIVER",

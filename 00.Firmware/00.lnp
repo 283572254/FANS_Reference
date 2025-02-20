@@ -31,6 +31,7 @@
 "00.firmware\delay.o"
 "00.firmware\user.o"
 "00.firmware\user_time.o"
+"00.firmware\gps_protocol.o"
 --library_type=microlib --strict --scatter "00.Firmware\00.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

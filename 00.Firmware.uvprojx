@@ -625,6 +625,11 @@
               <FileType>1</FileType>
               <FilePath>..\USER\User_time.c</FilePath>
             </File>
+            <File>
+              <FileName>GPS_protocol.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\USER\Protocol\GPS_protocol.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
