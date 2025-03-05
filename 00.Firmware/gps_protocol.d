@@ -23,6 +23,8 @@
 00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
 00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
 00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
@@ -31,5 +33,16 @@
 00.firmware\gps_protocol.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 00.firmware\gps_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 00.firmware\gps_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+00.firmware\gps_protocol.o: ../BSP/../BSP/Driver.h
+00.firmware\gps_protocol.o: ../Core/Inc/tim.h
 00.firmware\gps_protocol.o: ../Core/Inc/usart.h
 00.firmware\gps_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+00.firmware\gps_protocol.o: ../Core/Inc/gpio.h
+00.firmware\gps_protocol.o: ../Core/Inc/adc.h
+00.firmware\gps_protocol.o: ../BSP/../BSP/../BSP/RINGBUFFER/ringbuffer.h
+00.firmware\gps_protocol.o: ../BSP/../BSP/../BSP/LED/Led_driver.h
+00.firmware\gps_protocol.o: ../BSP/../BSP/../BSP/DHT11/DHT11_driver.h
+00.firmware\gps_protocol.o: ../BSP/../BSP/../BSP/KEY/KEY_driver.h
+00.firmware\gps_protocol.o: ../BSP/../BSP/../BSP/MOTOR/LN298Motor_driver.h
+00.firmware\gps_protocol.o: ../BSP/../BSP/../BSP/SERIAL/serial.h
+00.firmware\gps_protocol.o: ../Core/./delay/delay.h

@@ -23,6 +23,8 @@
 00.firmware\user_time.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
 00.firmware\user_time.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
 00.firmware\user_time.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+00.firmware\user_time.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+00.firmware\user_time.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 00.firmware\user_time.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 00.firmware\user_time.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 00.firmware\user_time.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
@@ -35,11 +37,13 @@
 00.firmware\user_time.o: ../Core/Inc/usart.h
 00.firmware\user_time.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 00.firmware\user_time.o: ../Core/Inc/gpio.h
+00.firmware\user_time.o: ../Core/Inc/adc.h
 00.firmware\user_time.o: ..\USER\../BSP/../BSP/RINGBUFFER/ringbuffer.h
 00.firmware\user_time.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 00.firmware\user_time.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 00.firmware\user_time.o: ..\USER\../BSP/../BSP/LED/Led_driver.h
 00.firmware\user_time.o: ..\USER\../BSP/../BSP/DHT11/DHT11_driver.h
-00.firmware\user_time.o: ../Core/./delay/delay.h
 00.firmware\user_time.o: ..\USER\../BSP/../BSP/KEY/KEY_driver.h
 00.firmware\user_time.o: ..\USER\../BSP/../BSP/MOTOR/LN298Motor_driver.h
+00.firmware\user_time.o: ..\USER\../BSP/../BSP/SERIAL/serial.h
+00.firmware\user_time.o: ../Core/./delay/delay.h
